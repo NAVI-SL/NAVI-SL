@@ -2,12 +2,8 @@
 
 # Hi there, I'm <a href="https://github.com/nadew-jayaweera" target="_blank">Navitha Navindul</a>! 👋
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Ethical+Hacker;Cybersecurity+Undergraduate;Freelancer;Open+Source+Enthusiast" alt="Typing SVG" />
-  </a>
-</div>
-
+<div align="left">
+  
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/navitha.navindul/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/navitha_navindul/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navitha-navindul-94632b326/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NavithaNavindul) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@navigaming4625) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navithanavindul@gmail.com) 
 
@@ -16,6 +12,7 @@
 ### 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=NAVI-SL&theme=dark&hide_border=false)<br/>
 
+</div>
 ---
 
 <div align="center">
